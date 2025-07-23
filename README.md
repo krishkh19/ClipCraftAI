@@ -1,2 +1,3 @@
-# VideoShop_AI
+# clipcraft AI
+
 #Krish khandelwal
